@@ -1,0 +1,9 @@
+{
+  "name": "dir1",
+  "set": "psc-0.15.0",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "prelude"
+  ]
+}
